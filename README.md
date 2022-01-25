@@ -10,3 +10,5 @@ I can use simple text formatting to make **bold** or *italicized* text!
 
 I added this in the "readme-edits" branch
 I am adding text from the shell to update the README file
+
+Some more text I am adding
