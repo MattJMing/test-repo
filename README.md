@@ -9,3 +9,4 @@ I can use simple text formatting to make **bold** or *italicized* text!
 ## New section added in a branch
 
 I added this in the "readme-edits" branch
+I am adding text from the shell to update the README file
